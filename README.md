@@ -19,6 +19,24 @@
 
 
 
+<details>
+<summary> <b> Aqui você pode saber mais sobre mim </b> <i>(Clique aqui para expandir)</i> </summary>
+
+### 📖 Sobre mim
+
+Atualmente estou cursando uma faculdade no curso de análise e desenvolvimento de sistemas (quero me tornar um desenvolvedor front-end) moro no Rio de Janeiro quero ser conhecido  por fazer produtos de qualidade, durabilidade e que agregam valor aos clientes e dentro de um empresa.
+Trabalho usando a web como plataforma, quero criar sites e aplicações web para todos, seguindo as principais diretivas de acessibilidade, responsividade e web semântica, sem descuidar da qualidade de código.
+
+Satisfazer meus clientes é prioridade. Para isso, garanto um processo de desenvolvimento altamente interativo, baseado em feedback contínuo.
+
+
+
+Hoje eu estou estudando para evoluir minhas habilidades e ser capaz de criar soluções que auxiliem os clientes e fidelizarem clientes, através de sistemas, aplicativos, web sites otimizados com SEO. Acredito que a união da tecnologia possa criar um sistema diferenciado que proporciona uma experiência rica para os usuários.
+Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.
+</details>
+
+
+
                                    
 
 
