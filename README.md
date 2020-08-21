@@ -1,5 +1,5 @@
  ### Seja bem vindo ao meu repositório!
- # 👩🏿‍💻  Olá meu nome é Rodrigo Luiz e quero me tornar desenvolvedor web!
+ # 👩🏿‍💻  Olá meu nome é Rodrigo Luiz e quero me tornar um desenvolvedor web!
  
  📫 Como chegar até mim: ...
 
