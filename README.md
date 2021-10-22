@@ -23,7 +23,7 @@
 
 ### 📖 Sobre mim
 
-Atualmente estou cursando uma faculdade no curso de análise e desenvolvimento de sistemas (quero me tornar um desenvolvedor front-end) moro no Rio de Janeiro quero ser conhecido  por fazer produtos de qualidade, durabilidade e que agregam valor aos clientes e dentro de uma empresa.
+Atualmente formado no curso superior  de análise e desenvolvimento de sistemas (quero me tornar um desenvolvedor front-end) moro no Rio de Janeiro quero ser conhecido  por fazer produtos de qualidade, durabilidade e que agregam valor aos clientes e dentro de uma empresa.
 Trabalho usando a web como plataforma, quero criar sites e aplicações web para todos, seguindo as principais diretivas de acessibilidade, responsividade e web semântica, sem descuidar da qualidade de código.
 
 Satisfazer meus clientes é prioridade. Para isso, garanto um processo de desenvolvimento altamente interativo, baseado em feedback contínuo.
