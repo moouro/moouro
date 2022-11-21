@@ -4,7 +4,7 @@
  📫 Como chegar até mim: ...
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo_Luiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-alan-fullstack-developer/)](https://www.linkedin.com/in/rodrigo-212//)
+[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo_Luiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-alan-fullstack-developer/)](https://www.linkedin.com/in/rodrigo-212/)
 [![Gmail Badge](https://img.shields.io/badge/-rodrigoluiz212@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoluiz212@gmail.com)](mailto:rodrigoluiz212@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-mouro-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/moouro/)](https://www.instagram.com/moouro/)
 
