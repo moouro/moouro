@@ -1,63 +1,53 @@
- ### Seja bem vindo ao meu repositório!
- # 👩🏿‍💻  Olá meu nome é Rodrigo Luiz e quero me tornar um desenvolvedor web!
- 
- 📫 Como chegar até mim: ...
+# 🌐 Rodrigo Luiz - Desenvolvedor Front-End em Formação
 
+Sou um desenvolvedor front-end apaixonado por criar experiências digitais impactantes. Moro no Rio de Janeiro e busco construir soluções web de qualidade, durabilidade e valor agregado para meus clientes. Estou em constante aprendizado e buscando oportunidades para aplicar meus conhecimentos na comunidade front-end.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rodrigo_Luiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-alan-fullstack-developer/)](https://www.linkedin.com/in/rodrigo-212/)
-[![Gmail Badge](https://img.shields.io/badge/-rodrigoluiz212@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigoluiz212@gmail.com)](mailto:rodrigoluiz212@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-mouro-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/moouro/)](https://www.instagram.com/moouro/)
+## Sobre mim
 
-🌱 Atualmente estou aprendendo ... 
+- 🌱 **Estou aprendendo**: **Astro**, **Tailwind CSS**, **TypeScript** e **Sass**.
+- 🌐 **Interesse**: Criar interfaces intuitivas e acessíveis, seguindo princípios de UX/UI.
+- 💡 **Motivação**: Acredito que a tecnologia deve ser usada para resolver problemas reais e melhorar a vida das pessoas.
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/-Rodrigo_Luiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-212/)](https://www.linkedin.com/in/rodrigo-212/)
+[![Gmail](https://img.shields.io/badge/-rodrigoluiz212@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:rodrigoluiz212@gmail.com)
+[![Instagram](https://img.shields.io/badge/-@moouro-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/moouro/)](https://www.instagram.com/moouro/)
+
+## Habilidades
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-549FDE?style=flat-square&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-549FDE?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-549FDE?style=flat-square&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-549FDE?style=flat-square&logo=sass&logoColor=white)
 
-
-
+## Sobre mim (Clique para expandir)
 
 <details>
-<summary> <b> Aqui você pode saber mais sobre mim </b> <i>(Clique aqui para expandir)</i> </summary>
+<summary> <b> Conheça mais sobre mim </b> </summary>
 
-### 📖 Sobre mim
+### Minha Jornada
 
-Atualmente formado no curso superior  de análise e desenvolvimento de sistemas (quero me tornar um desenvolvedor front-end) moro no Rio de Janeiro quero ser conhecido  por fazer produtos de qualidade, durabilidade e que agregam valor aos clientes e dentro de uma empresa.
-Trabalho usando a web como plataforma, quero criar sites e aplicações web para todos, seguindo as principais diretivas de acessibilidade, responsividade e web semântica, sem descuidar da qualidade de código.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas.
+- 🚀 Atualmente me dedicando a projetos pessoais e estudos em front-end, buscando aplicar meus conhecimentos em situações reais.
+- 🌐 Interesse em desenvolver soluções que combinem design, funcionalidade e acessibilidade.
 
-Satisfazer meus clientes é prioridade. Para isso, garanto um processo de desenvolvimento altamente interativo, baseado em feedback contínuo.
+### Valores
 
+- 🌟 Criar produtos com qualidade e durabilidade.
+- 🤝 Priorizar a comunicação clara e feedback contínuo.
+- 🚀 Buscar inovação constante e aprendizado contínuo.
 
+### Objetivo
 
-Hoje eu estou estudando para evoluir minhas habilidades e ser capaz de criar soluções que auxiliem os clientes e fidelizarem clientes, através de sistemas, aplicativos, web sites otimizados com SEO. Acredito que a união da tecnologia possa criar um sistema diferenciado que proporciona uma experiência rica para os usuários.
-Minha jornada diária é adquirir os conhecimentos necessários, colocar a mão na massa para criar essas soluções para as pessoas e me divertir no processo.
+Estou em busca de oportunidades para aplicar meus conhecimentos em desenvolvimento front-end, contribuindo para projetos que agreguem valor aos usuários. Além disso, estou aberto a colaborar com a comunidade front-end, compartilhando experiências e aprendendo com outros profissionais.
+
 </details>
 
+---
 
-
-                                   
-
-
-
-
-  
-  
-  
-  
-  
-  
-<!--
-**moouro/moouro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Obrigado por visitar meu perfil! 😊**
